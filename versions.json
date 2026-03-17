@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "id": "1.0.0",
+      "type": "release",
+      "releaseDate": "2026-03-17",
+      "changelog": "Initial release.",
+      "clientUrl": "https://github.com/uhAlexz/mclite-versions/releases/download/v1.0.0/client.jar",
+      "serverUrl": "https://github.com/uhAlexz/mclite-versions/releases/download/v1.0.0/server.jar"
+    }
+  ]
+}
