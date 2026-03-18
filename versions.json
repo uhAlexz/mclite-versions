@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "id": "1.0.2",
+      "type": "release",
+      "releaseDate": "2026-03-18",
+      "changelog": "Server Updates and World Saving! 🌍",
+      "clientUrl": "https://github.com/uhAlexz/mclite-versions/releases/download/v1.0.2/client.jar",
+      "serverUrl": "https://github.com/uhAlexz/mclite-versions/releases/download/v1.0.2/server.jar"
+    },
+    {
       "id": "1.0.1",
       "type": "release",
       "releaseDate": "2026-03-17",
